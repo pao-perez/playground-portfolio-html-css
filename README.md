@@ -1,4 +1,2 @@
-# pao-perez/playground-portfolio-html-css
-
-Learning to write HTML and CSS the right way.
-
+# playground-portfolio-html-css
+A playground for learning how to write HTML and CSS from a front-end developer's point of view, starting from a mock-up design, boxifying, etc., following Udacity's awesome tutorial.
